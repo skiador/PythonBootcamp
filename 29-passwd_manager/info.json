@@ -1,0 +1,29 @@
+{
+    "example.com": {
+        "john_doe": "P@ssw0rd123"
+    },
+    "google.com": {
+        "jane_smith": "G00gleP@ss"
+    },
+    "facebook.com": {
+        "user123": "F@cebookPass"
+    },
+    "twitter.com": {
+        "twitter_user": "TwiTt3rP@ss!"
+    },
+    "amazon.com": {
+        "shopper99": "AmaZ0nP@sswrd"
+    },
+    "linkedin.com": {
+        "career_pro": "L1nk3dIn@123"
+    },
+    "github.com": {
+        "code_master": "GitHUbR0cks"
+    },
+    "instagram.com": {
+        "insta_lover": "Inst@gram123"
+    },
+    "reddit.com": {
+        "reddit_user": "R3dditP@ss"
+    }
+}
