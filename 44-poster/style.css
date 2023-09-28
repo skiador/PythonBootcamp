@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+#main {
+    margin: 50px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    border: 5px solid white;
+}
+
+
+h1 {
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+    
+}
+
+p {
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    font-size: ;
+}
+
