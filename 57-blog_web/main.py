@@ -16,9 +16,9 @@ for blog in blogs_json:
 def home():
     return render_template("index.html", blogs=posts_list)
 
-@app.route('/post/<post_id>')
+@app.route('/post/<int:post_id>')
 def get_post(post_id):
-    return render_template("post.html", post=posts_list[int(post_id)])
+    return render_template("post.html", post=posts_list[post_id])
 
 if __name__ == "__main__":
     app.run(debug=True)
